@@ -1,0 +1,37 @@
+#header-parent{
+    margin-bottom: 3em;;
+}
+#sicon{
+    background: white;
+    padding:1em;
+    border-radius: 50%;
+}
+#search-cont{
+    
+}
+input{
+    margin:auto 0em auto 2em;
+    font-size: large;
+    height:auto;
+    border:0;
+    outline:0;
+    box-shadow: none;
+    background: transparent;
+    cursor:text;
+    font-size: 1em;
+}
+
+#small-text{
+    font-size: small;
+    position: relative;
+    
+}
+#heading-text{
+    float:right;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-right: 2em;
+}
+.heading{
+    margin:0;
+}
